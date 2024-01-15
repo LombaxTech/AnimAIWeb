@@ -1,14 +1,18 @@
 [x] make git repo
 
-[] deploy to netlify
+[x] deploy to netlify
 
-[] fix favicon and header
+[x] fix title
+
+[x] fix favicon
 
 [] seo stuff
 
-[] generate image from prompt
+[x] generate image from prompt
 
-[] example images
+[] example images page
+
+[] mobile view
 
 [] ads
 
@@ -17,5 +21,7 @@
 [] credit system
 
 [] explore other options such as blackening out and API calling
+
+[] analytics
 
 Make API req
